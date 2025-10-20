@@ -815,13 +815,13 @@
             <div class="community-content">
                 <p>Become part of the Whitehall revolution. Connect with like-minded individuals, share ideas, and help shape the future of this innovative project.</p>
                 <div class="social-icons">
-                    <a href="#" class="social-icon">
+                    <a https://t.me/+fI5qu9GSFFk5NWJl="#" class="social-icon">
                         <i class="fab fa-telegram"></i>
                     </a>
-                    <a href="#" class="social-icon">
+                    <a https://x.com/SupriSupri24035?t=Ox48_sWHp7FCTU2w_JWFKA&s=09="#" class="social-icon">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="#" class="social-icon">
+                    <a hhttps://discord.gg/3N5R4ZEcg="#" class="social-icon">
                         <i class="fab fa-discord"></i>
                     </a>
                 </div>
